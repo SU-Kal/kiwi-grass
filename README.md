@@ -3,6 +3,9 @@ Kiwigrass was made for the use case of playing video games with dyslexia or visu
 struggle to play. This is intended to make it easier. This program will take two points, create a screenshot and then
 use tesseract AI to grab the text and then read it out loud.
 
+# Video Example:
+https://youtu.be/D1FW54C6ooc 
+
 ## Requirements:
 + Python 3.12
 + Tesseract OCR (Installation link and info is: https://tesseract-ocr.github.io/tessdoc/Installation.html)
